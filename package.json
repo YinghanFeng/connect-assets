@@ -35,7 +35,7 @@
     "connect-assets": "bin/connect-assets"
   },
   "dependencies": {
-    "argparse": "1.0.7",
+    "argparse": "1.0.10",
     "csswring": "5.0.0",
     "mime": "1.4.1",
     "mincer": "2.0.1",
